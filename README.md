@@ -100,7 +100,7 @@ Antes de executar o projeto, certifique-se de ter:
 ### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone <https://github.com/Hudson-hag/olist-ecommerce-analytics.git>
 cd olist-ecommerce-analytics
 ```
 
